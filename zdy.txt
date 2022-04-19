@@ -1,4 +1,7 @@
 zdy.txt
 zdy.txt 2
 uiqyer
+------------
+`:wq
+
 
