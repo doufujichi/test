@@ -1,7 +1,5 @@
 zdy.txt
 zdy.txt 2
-uiqyer
-------------
-`:wq
+zdy.txt 3
 
 
